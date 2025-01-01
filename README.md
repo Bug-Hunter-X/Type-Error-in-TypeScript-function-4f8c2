@@ -1,0 +1,1 @@
+This repository demonstrates a common type error in TypeScript. The error occurs when an array is passed to a function expecting a string.  The solution involves checking the type of input and handling the array appropriately, using type guards or type assertions.
